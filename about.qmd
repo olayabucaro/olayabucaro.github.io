@@ -2,11 +2,5 @@
 title: "About"
 ---
 
-About this site
-
-This is a site for me
-
-```{r}
-1 + 2
-```
+My names is Orlando Olaya Bucaro PhD student in demography at the University of Vienna and the Norwegian University of Science and Technology.
 

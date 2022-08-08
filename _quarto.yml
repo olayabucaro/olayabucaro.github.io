@@ -2,12 +2,14 @@ project:
   type: website
 
 website:
-  title: "personalwebsite"
+  title: "Orlando Olaya Bucaro"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Home 
+      - publications.qmd
       - about.qmd
+     
 
 format:
   html:

@@ -2,10 +2,4 @@
 title: "Orland Olaya Bucaro"
 ---
 
-This is a Quarto website. This is main branch.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi! This is my page that will be updated in the future.
