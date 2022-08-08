@@ -4,6 +4,9 @@ title: "About"
 
 About this site
 
+This is a site for me
+
 ```{r}
-1 + 1
+1 + 2
 ```
+
