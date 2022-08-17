@@ -7,6 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home 
+      - presentations.qmd
       - publications.qmd
       - about.qmd
      
